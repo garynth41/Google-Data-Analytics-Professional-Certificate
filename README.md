@@ -14,7 +14,7 @@ This program includes over 180 hours of instruction and hundreds of practice-bas
 * Tableau
 * R Programming
 * Expert training and hands-on projects
-* Complete a case study that you can share with potential employers
+* Completed Case Studies
 
 
 # 8 Courses in this Professional Certificate
