@@ -6,21 +6,14 @@ This program includes over 180 hours of instruction and hundreds of practice-bas
 Data cleaning, problem solving, critical thinking, data ethics, and data visualization  Platforms and tools you will learn include: Presentations, Spreadsheets, SQL, Tableau and R Programming  In addition to expert training and hands-on projects, you'll complete a case study that you can share with potential employers to showcase your new skill set. 
 
 # There are 8 Courses in this Professional Certificate
-# COURSE 1: Foundations: Data, Data, Everywhere
-
-# COURSE 2: Ask Questions to Make Data-Driven Decisions
-
-# COURSE 3: Prepare Data for Exploration
-
-# COURSE 4: Process Data from Dirty to Clean
-
-# COURSE 5: Analyze Data to Answer Questions
-
-# COURSE 6: Share Data Through the Art of Visualization
-
-# COURSE 7: Data Analysis with R Programming
-
-# COURSE 8: Google Data Analytics Capstone: Complete a Case Study:
+COURSE 1: Foundations: Data, Data, Everywher
+COURSE 2: Ask Questions to Make Data-Driven Decision
+COURSE 3: Prepare Data for Exploratio
+COURSE 4: Process Data from Dirty to Clea
+COURSE 5: Analyze Data to Answer Question
+COURSE 6: Share Data Through the Art of Visualizatio
+COURSE 7: Data Analysis with R Programmin
+COURSE 8: Google Data Analytics Capstone: Complete a Case Study:
 
 
 # Google
