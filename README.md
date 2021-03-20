@@ -18,19 +18,19 @@ This program includes over 180 hours of instruction and hundreds of practice-bas
 
 
 # 8 Courses in this Professional Certificate
-COURSE 1: Foundations: Data, Data, Everywher
+COURSE 1: Foundations: Data, Data, Everywhere
 
 COURSE 2: Ask Questions to Make Data-Driven Decision
 
-COURSE 3: Prepare Data for Exploratio
+COURSE 3: Prepare Data for Exploration
 
-COURSE 4: Process Data from Dirty to Clea
+COURSE 4: Process Data from Dirty to Clean
 
 COURSE 5: Analyze Data to Answer Question
 
-COURSE 6: Share Data Through the Art of Visualizatio
+COURSE 6: Share Data Through the Art of Visualization
 
-COURSE 7: Data Analysis with R Programmin
+COURSE 7: Data Analysis with R Programming
 
 COURSE 8: Google Data Analytics Capstone: Complete a Case Study:
 
